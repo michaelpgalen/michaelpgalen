@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelpgalen
-- 👀 I’m a product designer who fell in love frontend development.
+- 👀 I’m a product designer who keeps engineering!
 - 🌱 I’m currently learning Swift.
 - 📫 How to reach me: mgalendesign@gmail.com
 - Product Design portfolio: mgalen.com
