@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelpgalen
-- 👀 I’m a product designer who keeps engineering!
-- 🌱 I’m currently learning Swift.
+- 👀 I’m a product designer turned engineer!
+- 🌱 I was studying Swift, then pivoted to javascript and React.
 - 📫 How to reach me: mgalendesign@gmail.com
 - Product Design portfolio: mgalen.com
 
